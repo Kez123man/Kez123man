@@ -4,7 +4,7 @@ My name is Kieran, and I am a recent Masters graduate in Data Science interested
 
 - 🔭 I’m currently working on using artificial intelligence to improve picking stocks. 
 - 🌱 I’m currently learning python, SQL and French!
-- 💬 Ask me about: my favourite SCI-FI/Horror films. 
+- 💬 Ask me about: my favourite SCI-FI and Horror films. 
 - ⚡ Fun fact: Actually a PPE undergrduate who decided to do a career switch.
 
 <!--
