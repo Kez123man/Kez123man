@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+My name is Kieran, and I am a recent Masters graduate in Data Science interested in SQL, python and all things relating to data science! 
+
+- 🔭 I’m currently working on using artificial intelligence to improve picking stocks. 
+- 🌱 I’m currently learning python, SQL and French!
+- 💬 Ask me about: my favourite SCI-FI/Horror films. 
+- ⚡ Fun fact: Actually a PPE undergrduate who decided to do a career switch.
+
 <!--
 **Kez123man/Kez123man** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
